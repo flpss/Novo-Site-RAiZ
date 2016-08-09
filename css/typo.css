@@ -993,6 +993,7 @@ pre code {
 }
 .pi-section-white a {
   color: #94C11E;
+  font-weight: bold;
 }
 .pi-section-white a:hover {
   color: #099555;
